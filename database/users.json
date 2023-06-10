@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1811de13-f76a-4575-ac73-b011cca1fc0f",
+    "fullname": "Ali Hakimov",
+    "email": "hakimov@gmail.com",
+    "phoneNumber": "+998999999999",
+    "username": "alihakim12",
+    "password": "$2b$10$1i.AVD2tI1btCE9FKofyC.yvakFwzDnvEhHGdsPhsBE.VSiJZ1g6S",
+    "role": "user",
+    "createdAt": "2023-06-09T06:20:19.588Z"
+  },
+  {
+    "id": "5cb2f13c-8d02-4cc3-b90f-5f039b0a0185",
+    "fullname": "Rakhmatov Rakhmatjon",
+    "email": "mr.rakhmatov1207@gmail.com",
+    "phoneNumber": "+998900391802",
+    "username": "rakhmatov07",
+    "password": "$2b$10$aYblATpJg.7g81gRVboGNOuUrrWZWuAUSrkYhhdzbNlSYXhFlhDU.",
+    "role": "admin",
+    "createdAt": "2023-06-09T06:31:06.394Z"
+  },
+  {
+    "id": "5e1bccde-b964-4cfb-b406-c4b94c3da908",
+    "fullname": "Maqsad Axrorov",
+    "email": "akhrorov23@mail.ru",
+    "phoneNumber": "+998330494949",
+    "username": "Maks",
+    "password": "$2b$10$JViVM5oxrBkVaAV4mbcs7ugBnafJ/VtfT3nZP1wNNIJEuYZQPCIA.",
+    "role": "user",
+    "createdAt": "2023-06-09T14:48:34.724Z"
+  }
+]
